@@ -1,5 +1,5 @@
 # Getting Started with the .NET MAUI Expander 
-The Syncfusion [.NET MAUI Expander](https://www.syncfusion.com/maui-controls/maui-expander?utm_source=github&utm_medium=listing&utm_campaign=maui-expander-github-samples) is a layout control capable of loading any UI view in both header and content sections. A quick-start project that shows how to work with the Syncfusion Expander control in the .NET MAUI application. It also contains code customizations that can be done to the header and content views.
+The [.NET MAUI Expander](https://www.syncfusion.com/maui-controls/maui-expander?utm_source=github&utm_medium=listing&utm_campaign=maui-expander-github-samples) is a layout control capable of loading any UI view in both header and content sections. A quick-start project that shows how to work with the Syncfusion Expander control in the .NET MAUI application. It also contains code customizations that can be done to the header and content views.
 
 
 ## Project prerequisites
@@ -11,13 +11,13 @@ To run this application, you need to first clone the `getting-started-with-.net-
 ## Features and Benefits
 
 ### Expand and collapse visual states
-Supports both expanded and collapsed visual states, allowing the appearance of the control to be customized according to expansion status.
+Supports both expanded and collapsed visual states, allowing the [appearance](https://help.syncfusion.com/maui/expander/appearance?utm_source=github&utm_medium=listing&utm_campaign=maui-expander-github-samples) of the control to be customized according to expansion status.
 
 ### Animation
-The [.NET MAUI Expander](https://www.syncfusion.com/maui-controls/maui-expander?utm_source=github&utm_medium=listing&utm_campaign=maui-expander-github-samples) allows for animating the expansion and collapse of the header item. It offers several customization options, including enabling or disabling animation, adjusting the duration of the expanding and collapsing animations, and modifying the easing style.
+The .NET MAUI Expander allows for animating the [expanded and collapsed](https://help.syncfusion.com/maui/expander/getting-started#expand-and-collapse?utm_source=github&utm_medium=listing&utm_campaign=maui-expander-github-samples) of the header item. It offers several customization options, including enabling or disabling animation, adjusting the duration of the expanding and collapsing animations, and modifying the easing style.
 
 ### Header icon position
-The [.NET MAUI Expander](https://www.syncfusion.com/maui-controls/maui-expander?utm_source=github&utm_medium=listing&utm_campaign=maui-expander-github-samples) provides the flexibility to personalize the placement of the header icon.
+The .NET MAUI Expander provides the flexibility to personalize the placement of the header icon.
 
 ## Related links
 [Learn More about .NET MAUI Expander](https://www.syncfusion.com/maui-controls/maui-expander?utm_source=github&utm_medium=listing&utm_campaign=maui-expander-github-samples)
